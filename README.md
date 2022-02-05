@@ -1,3 +1,11 @@
+# BreakOut!
+
+Breakout begins with rows of bricks, with each color requiring a different number of hits to break the brick. Using a single ball, the player must knock down as many bricks as possible by using the walls and/or the paddle below to hit the ball against the bricks and eliminate them. If the player's paddle misses the ball's rebound, they will lose a turn. The speed of the ball increases with each level and the player has 3 lives to break all rows of bricks in each of the 3 levels.
+
+
+
+
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
