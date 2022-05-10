@@ -3,6 +3,7 @@
 Breakout begins with rows of bricks, with each color requiring a different number of hits to break the brick. Using a single ball, the player must knock down as many bricks as possible by using the walls and/or the paddle below to hit the ball against the bricks and eliminate them. If the player's paddle misses the ball's rebound, they will lose a turn. The speed of the ball increases with each level and the player has 3 lives to break all rows of bricks in each of the 3 levels.
 
 
+<img width="616" alt="Screen Shot 2022-05-10 at 1 24 18 AM" src="https://user-images.githubusercontent.com/47898706/167561950-307e9595-0971-4ff4-97dd-fe62848e851e.png">
 
 
 
